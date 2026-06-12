@@ -18,6 +18,7 @@ My solutions for the [Full Stack open](https://fullstackopen.com) course
 - [x] Part 11 - [CI/CD](https://fullstackopen.com/en/part11)
 - [x] Part 12 - [Containers](https://fullstackopen.com/en/part12)
 - [x] Part 13 - [Relational databases](https://fullstackopen.com/en/part13)
+- [x] Part 14 - [Next.JS](https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-nextjs)
 
 ## Certifications
 
@@ -42,6 +43,5 @@ My solutions for the [Full Stack open](https://fullstackopen.com) course
 ### Relational databases
 [![image](https://github.com/sambbaahh/fullstackopen/assets/99816212/f2a8da4f-3e6f-4a92-9681-f7df30b91d90)](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/3202307104e9bb4172e79460ce68d601)
 
-
-
-
+### Next.JS
+<img width="3508" height="2480" alt="certificate" src="https://github.com/user-attachments/assets/e8fc9d83-a402-4535-a55d-5c639bfc9fbb" />
